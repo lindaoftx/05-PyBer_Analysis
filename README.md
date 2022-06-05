@@ -14,7 +14,7 @@ We analyzed the PyBer ride data to look for trends among the urban, suburban, an
 ### Fares by City Type Over Time
 ![graph: weekly total fares by city type](Analysis/pyberfare.png)
 
-##Analysis
+## Analysis
 
 Unsurprisingly, urban rides and drivers outnumber suburban and rural numbers. It would be useful to check the average distance and duration of the rides to see how much supply and demand impacts these numbers vs. just supply and demand. 
 
